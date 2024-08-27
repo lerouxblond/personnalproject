@@ -1,0 +1,75 @@
+Software list:
+
+Game engine: Unity3D
+
+Texte engine: Clipboard
+
+Code software: Visual Studio Code
+
+Drawing software: Aseprite & Free asset
+
+Sound software: Audacity & free sound asset
+
+=========================================
+
+Protoype gameplay & mechanics:
+
+- Basic movement mechanic (obviously) + basic dash mechanic 
+
+- PNJ interaction, dialogue and market
+
+- Basic Fighting mechanics + monsters
+
+Final demo's gameplay & mechanics:
+
+- Basic movement mechanic (obviously) + basic dash mechanic 
+
+- PNJ interaction, dialogue and market
+
+- Basic Fighting mechanics + monsters
+
+- Storytelling + basic lore  
+
+- Basic puzzle, qte and engine
+
+- shield upgrade & powerup
+
+- Map system
+
+World design:
+
+- open field map
+
+- village map with commerce & pnj
+
+- spawn cave map with tutorial
+
+- Hollow knight map connection
+
+Genre:
+
+- Platformer 2D
+
+- Die & Retry
+
+- Enigme & puzzle
+
+Graphics: 2D Pixelart
+
+=============================================
+
+Dash mechanic and evolution:
+
+Basic dash mechanic:
+
+a simple dash when the sprite push him self forward with his shield with a wind effect
+
+upgrade dash mechanic:
+
+a advanced dash wich make the sprite surf on his shield that make the player safe on spike
+
+mouvement sprite:
+
+The mouvement animation should be heavy to give this impression that the armor that wear the caracter is heavy and realistic
+
+=============================================
